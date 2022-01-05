@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<anime-list>
+  <anime anidbid="4747" tvdbid="80975" defaulttvdbseason="1">
+    <name>Katekyou Hitman Reborn!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="34" end="65" offset="-33"/>
+      <mapping anidbseason="1" tvdbseason="3" start="66" end="73" offset="-65"/>
+      <mapping anidbseason="1" tvdbseason="4" start="74" end="101" offset="-73"/>
+      <mapping anidbseason="1" tvdbseason="5" start="102" end="140" offset="-101"/>
+      <mapping anidbseason="1" tvdbseason="6" start="141" end="153" offset="-140"/>
+      <mapping anidbseason="1" tvdbseason="7" start="154" end="177" offset="-153"/>
+      <mapping anidbseason="1" tvdbseason="8" start="178" end="189" offset="-177"/>
+      <mapping anidbseason="1" tvdbseason="9" start="190" end="203" offset="-189"/>
+    </mapping-list>
+    <supplemental-info>
+      <studio>Artland</studio>
+    </supplemental-info>
+  </anime>
+  <anime anidbid="7949" tvdbid="221281" defaulttvdbseason="1">
+    <name>Hourou Musuko</name>
+  </anime>
+  <anime anidbid="8550" tvdbid="252322" defaulttvdbseason="1">
+    <name>Hunter x Hunter (2011)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="59" end="136" offset="-58"/>
+      <mapping anidbseason="1" tvdbseason="3" start="137" end="148" offset="-136"/>
+    </mapping-list>
+  </anime>
+  <anime anidbid="8742" tvdbid="259647" defaulttvdbseason="1">
+    <name>Kokoro Connect</name>
+  </anime>
+  <anime anidbid="9229" tvdbid="286613" defaulttvdbseason="1">
+    <name>Hori-san to Miyamura-kun</name>
+  </anime>
+  <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2" episodeoffset="6">
+    <name>Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou</name>
+  </anime>
+  <anime anidbid="13728" tvdbid="284263" defaulttvdbseason="2">
+    <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou</name>
+  </anime>
+  <anime anidbid="14678" tvdbid="318893" defaulttvdbseason="2">
+    <name>Kobayashi-san Chi no Maidragon S</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-30;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="22" offset="7"/>
+    </mapping-list>
+  </anime>
+  <anime anidbid="14990" tvdbid="376144" defaulttvdbseason="1">
+    <name>Great Pretender</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="15" end="23" offset="-14"/>
+    </mapping-list>
+  </anime>
+  <anime anidbid="15065" tvdbid="376812" defaulttvdbseason="1">
+    <name>Another World</name>
+  </anime>
+  <anime anidbid="15351" tvdbid="375271" defaulttvdbseason="1">
+    <name>Fumetsu no Anata e</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="15441" tvdbid="378609" defaulttvdbseason="1">
+    <name>86</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="15665" tvdbid="284263" defaulttvdbseason="3">
+    <name>Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou</name>
+  </anime>
+  <anime anidbid="15848" tvdbid="391736" defaulttvdbseason="1">
+    <name>Deatte 5 Byou de Battle</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
+  </anime>
+  <anime anidbid="15936" tvdbid="399902" defaulttvdbseason="1">
+    <name>Platinum End</name>
+  </anime>
+  <anime anidbid="16054" tvdbid="348545" defaulttvdbseason="3">
+    <name>Kimetsu no Yaiba: Yuukaku Hen</name>
+  </anime>
+  <anime anidbid="16069" tvdbid="402831" defaulttvdbseason="1">
+    <name>Leadale no Daichi nite</name>
+  </anime>
+</anime-list>
