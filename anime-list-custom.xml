@@ -81,6 +81,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="15865" tvdbid="404886" defaulttvdbseason="1">
+    <name>Sasaki to Miyano</name>
+  </anime>
   <anime anidbid="15936" tvdbid="399902" defaulttvdbseason="1">
     <name>Platinum End</name>
   </anime>
