@@ -69,12 +69,6 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="15578" tvdbid="400134" defaulttvdbseason="1">
-    <name>Kenja no Deshi o Nanoru Kenja</name>
-  </anime>
-  <anime anidbid="15665" tvdbid="284263" defaulttvdbseason="3">
-    <name>Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou</name>
-  </anime>
   <anime anidbid="15713" tvdbid="402726" defaulttvdbseason="1">
     <name>Shenmue the Animation</name>
   </anime>
@@ -87,53 +81,14 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="15865" tvdbid="404886" defaulttvdbseason="1">
-    <name>Sasaki to Miyano</name>
-  </anime>
   <anime anidbid="15917" tvdbid="406168" defaulttvdbseason="1">
     <name>Koroshi Ai</name>
   </anime>
   <anime anidbid="15936" tvdbid="399902" defaulttvdbseason="1">
     <name>Platinum End</name>
   </anime>
-  <anime anidbid="15943" tvdbid="403296" defaulttvdbseason="1">
-    <name>Slow Loop</name>
-  </anime>
-  <anime anidbid="15969" tvdbid="402475" defaulttvdbseason="1">
-    <name>Orient</name>
-  </anime>
-  <anime anidbid="16028" tvdbid="400961" defaulttvdbseason="1">
-    <name>Tensai Ouji no Akaji Kokka Saiseijutsu</name>
-  </anime>
-  <anime anidbid="16029" tvdbid="402374" defaulttvdbseason="1">
-    <name>Shikkaku Mon no Saikyou Kenja</name>
-  </anime>
   <anime anidbid="16054" tvdbid="348545" defaulttvdbseason="3">
     <name>Kimetsu no Yaiba: Yuukaku Hen</name>
-  </anime>
-  <anime anidbid="16069" tvdbid="402831" defaulttvdbseason="1">
-    <name>Leadale no Daichi nite</name>
-  </anime>
-  <anime anidbid="16103" tvdbid="398387" defaulttvdbseason="1">
-    <name>Sabikui Bisco</name>
-  </anime>
-  <anime anidbid="16166" tvdbid="400090" defaulttvdbseason="1">
-    <name>Akebi-chan no Sailor Fuku</name>
-  </anime>
-  <anime anidbid="16250" tvdbid="401233" defaulttvdbseason="1">
-    <name>Sono Bisque Doll wa Koi o Suru</name>
-  </anime>
-  <anime anidbid="16325" tvdbid="405227" defaulttvdbseason="1">
-    <name>Fantasy Bishoujo Juniku Ojisan to</name>
-  </anime>
-  <anime anidbid="16425" tvdbid="411002" defaulttvdbseason="1">
-    <name>Kaijin Kaihatsubu no Kuroitsu-san</name>
-  </anime>
-  <anime anidbid="16503" tvdbid="407862" defaulttvdbseason="1">
-    <name>Hakozume: Kouban Joshi no Gyakushuu</name>
-  </anime>
-  <anime anidbid="16559" tvdbid="337936" defaulttvdbseason="3">
-    <name>Karakai Jouzu no Takagi-san 3</name>
   </anime>
   <anime anidbid="16804" tvdbid="389422" defaulttvdbseason="1" episodeoffset="13">
     <name>Genjitsu Shugi Yuusha no Oukoku Saikenki (2022)</name>
@@ -143,8 +98,5 @@
   </anime>
   <anime anidbid="16920" tvdbid="411665" defaulttvdbseason="1">
     <name>Ryman's Club</name>
-  </anime>
-  <anime anidbid="16928" tvdbid="411770" defaulttvdbseason="1">
-    <name>Tokyo 24-ku</name>
   </anime>
 </anime-list>
